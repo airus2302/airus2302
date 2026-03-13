@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!--
 ### Hi there 👋, my name is Gi Hyeon Jeong
 #### A full stack developer & MLOps Engineer from Seoul, Korea
 
@@ -36,7 +36,29 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning NuxtJS, Flutter 
 - 💬 Ask me about Real-Time Object Detection 
 - 📫 How to reach me: airus2302@gmail.com 
+-->
 
+# Hi, I'm Gi-Hyeon Jeong
+
+Full Stack Developer with experience building corporate websites, internal HR systems, and operational web services.
+
+## What I Do
+- Build corporate and branding websites
+- Develop internal HR and business systems
+- Design and implement full-stack web services from frontend to backend and deployment
+
+## Tech Stack
+- Frontend: JavaScript, TypeScript, Vue.js, Nuxt, React, Next.js, TailwindCSS
+- Backend: Node.js, Express
+- Database: MySQL, PostgreSQL
+- Infra: AWS ECS, Docker, CloudFront
+- Collaboration: GitHub, Jira, Slack, Notion, Figma
+
+## Highlighted Experience
+- Built `cookapps.com` with Next.js and a design system based on TailwindCSS and shadcn
+- Designed and developed `story.cookapps.com` from scratch with Nuxt3
+- Developed internal HR systems including attendance, approval, feedback, and admin features
+- Set up CI/CD and deployment workflows on AWS ECS
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/airus2302)  
 
